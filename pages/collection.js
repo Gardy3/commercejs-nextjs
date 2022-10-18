@@ -6,7 +6,7 @@ import Collections from '../components/collections/Collections';
 import SocialMedia from '../components/common/SocialMedia';
 import Footer from '../components/common/Footer';
 
-const Home = () => (
+const CollectionPage = () => (
   <Root>
     <Head>
       <title>Collection</title>
@@ -18,4 +18,4 @@ const Home = () => (
   </Root>
 );
 
-export default Home;
+export default CollectionPage;
